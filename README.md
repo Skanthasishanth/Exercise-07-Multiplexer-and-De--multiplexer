@@ -1,4 +1,4 @@
-# Exercise-07-Multiplexer-and-De-multiplexer
+# Experiment-07-Multiplexer-and-De-multiplexer
 ### AIM: 
 To implement 4X1 multiplexer and 1X4 de multiplexer using verilog and validate its outputs
 ### HARDWARE REQUIRED: 
